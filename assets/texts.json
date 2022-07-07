@@ -1,0 +1,422 @@
+{
+    "backyard": {
+        "objects": [
+            {
+                "name": "beach-umbrella", "text": "There is a beach umbrella."
+            },
+
+            {
+                "name": "trampoline", "text": "There is a trampoline."
+            },
+
+            {
+                "name": "poolside-loungers", "text": "There are poolside loungers."
+            },
+
+            {
+                "name": "armchairs", "text": "There are armchairs."
+            },
+
+            {
+                "name": "outdoor-table", "text": "There is a outdoor table."
+            },
+
+            {
+                "name": "window", "text": "There is an window."
+            }
+        ]
+    },
+
+    "basement": {
+        "objects": [
+            {
+                "name": "couch", "text": "There is a couch."
+            },
+
+            {
+                "name": "trampoline", "text": "There are chairs."
+            },
+
+            {
+                "name": "microwave", "text": "There are sun chairs."
+            },
+
+            {
+                "name": "cushion", "text": "There are armchairs."
+            },
+
+            {
+                "name": "table-tennis", "text": "There is a game table."
+            },
+            
+            {
+                "name": "cushions", "text": "There are cushions."
+            },
+
+            {
+                "name": "pool-table", "text": "There is a pool table."
+            }
+        ]
+    },
+
+    "bathroom": {
+        "bathroom-complete": {
+            "objects": [
+                {
+                    "name": "mirror", "text": "There is a mirror."
+                },
+
+                {
+                    "name": "soaps", "text": "There are soaps."
+                },
+
+                {
+                    "name": "dresser", "text": "There is a drawer."
+                },
+
+                {
+                    "name": "toothbrush-toothpaste-floss", "text": "There is a toothbrush, toothpaste and floss."
+                },
+
+                {
+                    "name": "bathroom-sink", "text": "There is a bathroom sink."
+                },
+
+                {
+                    "name": "towels", "text": "There are towels."
+                },
+
+                {
+                    "name": "plants", "text": "There are plants."
+                },
+
+                {
+                    "name": "bathtub", "text": "There is a bathtub."
+                },
+
+                {
+                    "name": "shower", "text": "There is a shower."
+                }
+            ]
+        },
+        "cleaning-bathrooms": {
+            "objects": [
+                {
+                    "name": "bathroom-faucet", "text": "There is a bathroom faucet."
+                },
+
+                {
+                    "name": "toilet", "text": "There is a toilet."
+                },
+
+                {
+                    "name": "toilet-paper", "text": "There is a toilet paper."
+                },
+
+                {
+                    "name": "shower", "text": "There is a shower."
+                }
+            ]
+        }
+    },
+
+    "bedroom": {
+        "bedroom-bed": {
+            "objects": [
+                {
+                    "name": "pots", "text": "There are pots."
+                },
+
+                {
+                    "name": "night-table", "text": "There is a night table."
+                },
+
+                {
+                    "name": "lamp", "text": "There is a lamp."
+                },
+
+                {
+                    "name": "pillows", "text": "There are pillows."
+                },
+
+                {
+                    "name": "bed", "text": "There is a bed."
+                },
+
+                {
+                    "name": "banket", "text": "There is a blanket."
+                }
+            ]
+        },
+
+        "bedroom-closet": {
+            "objects": [
+                {
+                    "name": "clothes&hanger", "text": "There are clothes and hangers."
+                },
+
+                {
+                    "name": "shoerack", "text": "There is a shoerack."
+                },
+
+                {
+                    "name": "cabinets", "text": "There are cabinets."
+                },
+
+                {
+                    "name": "books", "text": "There are books."
+                }
+            ]
+        },
+
+        "bedroom-computer": {
+            "objects": [
+                {
+                    "name": "monitors", "text": "There are monitors."
+                },
+
+                {
+                    "name": "soundtable", "text": "There is a soundtable."
+                },
+
+                {
+                    "name": "keyboard", "text": "There is a keyboard."
+                },
+
+                {
+                    "name": "soundbox", "text": "There is a soundbox."
+                },
+
+                {
+                    "name": "mouse", "text": "There is a mouse."
+                },
+
+                {
+                    "name": "jackdaniels", "text": "There is a Jack Daniels."
+                },
+
+                {
+                    "name": "computer", "text": "There is a computer."
+                },
+
+                {
+                    "name": "gamer-chair", "text": "There is a gamer chair."
+                }
+            ]
+        }
+    },
+
+    "garden": {
+        "objects": [
+            {
+                "name": "flowers", "text": "There are flowers."
+            },
+
+            {
+                "name": "trees", "text": "There are trees."
+            },
+
+            {
+                "name": "plants", "text": "There are plants."
+            },
+
+            {
+                "name": "door", "text": "There is a door."
+            },
+
+            {
+                "name": "chairs", "text": "There are chairs."
+            },
+
+            {
+                "name": "black-cat", "text": "There is a black cat."
+            },
+
+            {
+                "name": "window", "text": "There is a window."
+            },
+
+            {
+                "name": "yellow-table", "text": "There is a yellow table."
+            }
+        ]
+    },
+
+    "kitchen": {
+        "kitchen-carbinet": {
+            "objects": [
+                {
+                    "name": "plates", "text": "There are plates."
+                },
+
+                {
+                    "name": "jars", "text": "There are jars."
+                },
+
+                {
+                    "name": "bowls", "text": "There are bowls."
+                },
+
+                {
+                    "name": "cutlery", "text": "There is a cutlery."
+                },
+
+                {
+                    "name": "pears", "text": "There are pears."
+                }
+            ]
+        },
+
+        "kitchen-complete": {
+            "objects": [
+                {
+                    "name": "microwave", "text": "There is a microwave."
+                },
+
+                {
+                    "name": "tea-kettle", "text": "There is a tea kettle."
+                },
+
+                {
+                    "name": "cooker", "text": "There is a cooker."
+                },
+
+                {
+                    "name": "cutlery", "text": "There is a cutlery."
+                },
+
+                {
+                    "name": "mixer", "text": "There is a mixer."
+                },
+
+                {
+                    "name": "kitchen-cabinet", "text": "There is a kitchen cabinet."
+                },
+
+                {
+                    "name": "fridge", "text": "There is a fridge."
+                },
+
+                {
+                    "name": "dishwasher", "text": "There is a dishwasher."
+                },
+
+                {
+                    "name": "cups", "text": "There are cups."
+                }
+            ]
+        },
+
+        "kitchen-sink": {
+            "objects": [
+                {
+                    "name": "kitchen-sink", "text": "There is a kitchen sink."
+                },
+
+                {
+                    "name": "kitchen-faucet", "text": "There is a kitchen faucet."
+                }
+            ]
+        }
+    },
+
+    "laundry": {
+        "laundry-complete": {
+            "objects": [
+                {
+                    "name": "carpet", "text": "There is a carpet."
+                },
+
+                {
+                    "name": "washing-machines", "text": "There are washing machines."
+                },
+
+                {
+                    "name": "cleaning-product-carbinets", "text": "There are cleaning product carbinets."
+                },
+
+                {
+                    "name": "towels", "text": "There are towels."
+                },
+
+                {
+                    "name": "fabric-softner", "text": "There is a fabric softner."
+                },
+
+                {
+                    "name": "laundry-soap-powder", "text": "There is a laundry soap powder."
+                },
+
+                {
+                    "name": "soap", "text": "There are soap."
+                },
+
+                {
+                    "name": "clothes&hangers", "text": "There are clothes and hangers."
+                },
+
+                {
+                    "name": "vaccum-cleaner", "text": "There are vaccum cleaner."
+                }
+            ]
+        },
+
+        "laundry-iron": {
+            "objects": [
+                {
+                    "name": "iron", "text": "There is a iron."
+                }
+            ]
+        },
+
+        "laundry-lines": {
+            "objects": [
+                {
+                    "name": "window", "text": "There is a window."
+                },
+
+                {
+                    "name": "clothesline", "text": "There is a clothesline."
+                }
+            ]
+        }
+    },
+
+    "living-room": {
+        "objects": [
+            {
+                "name": "painting", "text": "There is a painting."
+            },
+
+            {
+                "name": "couch", 
+                "text": "There is a couch."
+            },
+
+            {
+                "name": "plant", 
+                "text": "There is a plant."
+            },
+
+            {
+                "name": "air-conditioner", 
+                "text": "There is a air conditioner."
+            },
+
+            {
+                "name": "living-room-chair", 
+                "text": "There is a living room chair."
+            },
+
+            {
+                "name": "tv-stand", 
+                "text": "There is a TV stand."
+            },
+
+            {
+                "name": "television", 
+                "text": "There is a television."
+            }
+        ]
+    }
+}
